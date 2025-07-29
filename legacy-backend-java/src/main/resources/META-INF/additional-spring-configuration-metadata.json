@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "geoserver.url",
+      "type": "java.lang.String",
+      "description": "Description for geoserver.url."
+    },
+    {
+      "name": "geoserver.workspacename",
+      "type": "java.lang.String",
+      "description": "Description for geoserver.workspacename."
+    },
+  ] }
