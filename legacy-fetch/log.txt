@@ -1,0 +1,28 @@
+2024-03-07 12:10:45,393 - connectionpool.py[line:1014] - DEBUG: Starting new HTTPS connection (1): www.ceic.ac.cn:443
+2024-03-07 12:10:46,704 - connectionpool.py[line:473] - DEBUG: https://www.ceic.ac.cn:443 "GET /ajax/speedsearch?num=1&page=4 HTTP/1.1" 200 None
+2024-03-07 12:10:46,710 - connectionpool.py[line:245] - DEBUG: Starting new HTTP connection (1): 127.0.0.1:8888
+2024-03-07 12:10:46,724 - connectionpool.py[line:473] - DEBUG: http://127.0.0.1:8888 "POST http://127.0.0.1:8089/gp HTTP/1.1" 200 None
+2024-03-07 12:10:46,724 - main.py[line:47] - INFO: 后端传输成功{"did": "CD20240307013748", "depth": 18, "lon": "76.77", "lat": "40.01", "location": "\u65b0\u7586\u514b\u5b5c\u52d2\u82cf\u5dde\u963f\u56fe\u4ec0\u5e02", "scale": "3.7", "time": "2024-03-07 01:37:47"}
+2024-03-07 12:10:46,726 - connectionpool.py[line:245] - DEBUG: Starting new HTTP connection (1): 127.0.0.1:8888
+2024-03-07 12:10:46,734 - connectionpool.py[line:473] - DEBUG: http://127.0.0.1:8888 "POST http://127.0.0.1:8089/gp HTTP/1.1" 200 None
+2024-03-07 12:10:46,735 - main.py[line:47] - INFO: 后端传输成功{"did": "CC20240307012254", "depth": 18, "lon": "83.41", "lat": "41.19", "location": "\u65b0\u7586\u963f\u514b\u82cf\u5730\u533a\u5e93\u8f66\u5e02", "scale": "3.3", "time": "2024-03-07 01:22:54"}
+2024-03-07 12:10:46,736 - connectionpool.py[line:245] - DEBUG: Starting new HTTP connection (1): 127.0.0.1:8888
+2024-03-07 12:10:46,742 - connectionpool.py[line:473] - DEBUG: http://127.0.0.1:8888 "POST http://127.0.0.1:8089/gp HTTP/1.1" 200 None
+2024-03-07 12:10:46,743 - main.py[line:47] - INFO: 后端传输成功{"did": "CD20240306211922", "depth": 11, "lon": "78.79", "lat": "41.25", "location": "\u65b0\u7586\u963f\u514b\u82cf\u5730\u533a\u4e4c\u4ec0\u53bf", "scale": "3.0", "time": "2024-03-06 21:19:21"}
+2024-03-08 11:11:11,864 - connectionpool.py[line:1014] - DEBUG: Starting new HTTPS connection (1): www.ceic.ac.cn:443
+2024-03-08 11:11:13,381 - connectionpool.py[line:473] - DEBUG: https://www.ceic.ac.cn:443 "GET /ajax/speedsearch?num=1&page=1 HTTP/1.1" 200 None
+2024-03-08 11:11:13,389 - connectionpool.py[line:245] - DEBUG: Starting new HTTP connection (1): 127.0.0.1:8089
+2024-03-08 11:11:52,148 - connectionpool.py[line:1014] - DEBUG: Starting new HTTPS connection (1): www.ceic.ac.cn:443
+2024-03-08 11:11:53,367 - connectionpool.py[line:473] - DEBUG: https://www.ceic.ac.cn:443 "GET /ajax/speedsearch?num=1&page=1 HTTP/1.1" 200 None
+2024-03-08 11:22:49,932 - connectionpool.py[line:1014] - DEBUG: Starting new HTTPS connection (1): www.ceic.ac.cn:443
+2024-03-08 11:22:51,194 - connectionpool.py[line:473] - DEBUG: https://www.ceic.ac.cn:443 "GET /ajax/speedsearch?num=1&page=1 HTTP/1.1" 200 None
+2024-03-08 11:28:03,031 - connectionpool.py[line:1014] - DEBUG: Starting new HTTPS connection (1): www.ceic.ac.cn:443
+2024-03-08 11:28:04,307 - connectionpool.py[line:473] - DEBUG: https://www.ceic.ac.cn:443 "GET /ajax/speedsearch?num=20&page=1 HTTP/1.1" 200 None
+2024-03-08 11:28:35,100 - connectionpool.py[line:1014] - DEBUG: Starting new HTTPS connection (1): www.ceic.ac.cn:443
+2024-03-08 11:28:36,289 - connectionpool.py[line:473] - DEBUG: https://www.ceic.ac.cn:443 "GET /ajax/speedsearch?num=20&page=1 HTTP/1.1" 200 None
+2024-03-08 11:29:31,551 - connectionpool.py[line:1014] - DEBUG: Starting new HTTPS connection (1): www.ceic.ac.cn:443
+2024-03-08 11:29:32,761 - connectionpool.py[line:473] - DEBUG: https://www.ceic.ac.cn:443 "GET /ajax/speedsearch?num=20&page=1 HTTP/1.1" 200 None
+2024-03-08 11:30:27,457 - connectionpool.py[line:1014] - DEBUG: Starting new HTTPS connection (1): www.ceic.ac.cn:443
+2024-03-08 11:30:28,754 - connectionpool.py[line:473] - DEBUG: https://www.ceic.ac.cn:443 "GET /ajax/speedsearch?num=20&page=1 HTTP/1.1" 200 None
+2024-03-08 11:31:35,655 - connectionpool.py[line:1014] - DEBUG: Starting new HTTPS connection (1): www.ceic.ac.cn:443
+2024-03-08 11:31:36,884 - connectionpool.py[line:473] - DEBUG: https://www.ceic.ac.cn:443 "GET /ajax/speedsearch?num=1&page=1 HTTP/1.1" 200 None
